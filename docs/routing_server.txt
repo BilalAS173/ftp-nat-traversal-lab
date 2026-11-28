@@ -1,0 +1,2 @@
+default via 203.0.113.1 dev veth-s 
+203.0.113.0/24 dev veth-s proto kernel scope link src 203.0.113.10 

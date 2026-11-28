@@ -1,0 +1,2 @@
+10.0.12.0/30 dev r2-b proto kernel scope link src 10.0.12.2 
+203.0.113.0/24 dev r2-c proto kernel scope link src 203.0.113.1 
