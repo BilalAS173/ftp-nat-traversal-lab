@@ -1,0 +1,2 @@
+default via 192.168.1.1 dev veth-c 
+192.168.1.0/24 dev veth-c proto kernel scope link src 192.168.1.10 
